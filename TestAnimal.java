@@ -22,7 +22,7 @@ public class TestAnimal {
 		animal1.setEdad(edad);
 		//Informar de los datos de animal1
 		animal1.nace();
-		System.out.println("Me llamo " + animal1.getNombre() + " y tengo " + animal1.getEdad() + " años");
+		System.out.println("Mi nomre es " + animal1.getNombre() + " y mi edad es de " + animal1.getEdad() + " años");
 	}
 
 }
